@@ -1,0 +1,123 @@
+{
+  "Fiction": [
+    {
+      "id":1,
+      "name":"The Playing Guests",
+      "mime_type":["html","txt"],
+      "language":["en","fr"],
+      "topic":["leisure","children"],
+      "author":"Sarah Waters",
+      "publishDate":"12 December,2012"
+    },
+
+    {
+      "id":2,
+      "name":"A Tale of Two cities",
+      "mime_type":["html","txt"],
+      "language":["en","ge"],
+      "topic":["children"],
+      "author":"Charles Dickens",
+      "publishDate":"15 December,2012"
+    },
+    {
+      "id":3,
+      "name":"A Town like Alice",
+      "mime_type":["html","txt"],
+      "language":["en","hn"],
+      "topic":["children"],
+      "author":"Nevil Shute",
+      "publishDate":"19 December,2012"
+    },
+    {
+      "id":4,
+      "name":"The Vegeterian",
+      "mime_type":["html","txt"],
+      "language":["en","fr"],
+      "topic":["leisure","children"],
+      "author":"Hans",
+      "publishDate":"12 November,2015"
+    },
+    {
+      "id":5,
+      "name":"Huckle Berry",
+      "mime_type":["html","pdf"],
+      "language":["en","fr"],
+      "topic":["leisure","children"],
+      "author":"Mark Twain",
+      "publishDate":"15 October,2012"
+    },
+    {
+      "id":6,
+      "name":"The Animal Farm",
+      "mime_type":["pdf","txt"],
+      "language":["en","fr"],
+      "topic":["leisure","children"],
+      "author":"George",
+      "publishDate":"12 December,2012"
+    },
+    {
+      "id":7,
+      "name":"The Bell Jar",
+      "mime_type":["html","txt"],
+      "language":["en","fr"],
+      "topic":["leisure","children"],
+      "author":"slyvia",
+      "publishDate":"12 December,2012"
+    },
+    {
+      "id":8,
+      "name":"Catch 22",
+      "mime_type":["html","txt"],
+      "language":["hn","fr"],
+      "topic":["leisure","children"],
+      "author":"Joseph",
+      "publishDate":"12 June,2012"
+    },
+    {
+      "id":9,
+      "name":"The Fault in our stars",
+      "mime_type":["html","txt"],
+      "language":["en","fr"],
+      "topic":["leisure","children"],
+      "author":"John Green",
+      "publishDate":"12 September,2012"
+    },
+    {
+      "id":10,
+      "name":"The Playing Guests",
+      "mime_type":["html","txt"],
+      "language":["en","fr"],
+      "topic":["leisure","children"],
+      "author":"Sarah Waters",
+      "publishDate":"12 December,2012"
+    }
+  ],
+
+  "Mystery": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+
+  "Horror": [{
+    "name": "typicode"
+  }],
+
+  "Travel": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+
+  "Religion": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
